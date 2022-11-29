@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abbos Rasulov</h1>
+<h3 align="center">I am an experienced data analyst with a huge interest in projects that require both creative and analytical thinking. And also I am a python backend developer who is proficient in both Django framework and Django REST framework. My passion lies in learning about the latest technologies and up-to-date informations about IT.I have 1+ years of experience in programming. I have made Backend, AI and ML projects during my experience. Now Iʼm Silicon Valley Sertificated data scientist. I also have experience on Backend web programming with python.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abboskhan01&label=Profile%20views&color=0e75b6&style=flat" alt="abboskhan01" /> </p>
 
-<!-- **Abboskhan01/Abboskhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abboskhan01" alt="abboskhan01" /></a> </p>
 
-<!-- Here are some ideas to get you started:
+- 🔭 I’m currently working on [Zay-online-shop](https://github.com/Abboskhan01/Zay-online-shop.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+- 🌱 I’m currently learning **Python Django,django REST, Pandas, Numpy, Plotly**
+
+- 👯 I’m looking to collaborate on [Perfect-site-for-Astrum-IT-academy](https://github.com/Abboskhan01/Perfect-site-for-Astrum-IT-academy.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abboskhan01](https://github.com/Abboskhan01)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abbos-rasulov-dev/](https://www.linkedin.com/in/abbos-rasulov-dev/)
+
+- 💬 Ask me about **Django and REST frameworks,Pandas, Numpy, Plotlib**
+
+- 📫 How to reach me **abbosr180@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAFNuCfQfKk/pU5Xof3r1f6A3gmKpBR13Q/edit](https://www.canva.com/design/DAFNuCfQfKk/pU5Xof3r1f6A3gmKpBR13Q/edit)
+
+- ⚡ Fun fact **I am fast learner.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abbosrasulovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abbosrasulovdev" height="30" width="40" /></a>
+<a href="https://kaggle.com/abbosrasulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbosrasulov" height="30" width="40" /></a>
+<a href="https://fb.com/abbosrasulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbosrasulov" height="30" width="40" /></a>
+<a href="https://instagram.com/abbos_khan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbos_khan01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abbosr180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbosr180" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/ghS6ZtpKwg/login" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/ghS6ZtpKwg/login" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abboskhan01&show_icons=true&locale=en&layout=compact" alt="abboskhan01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abboskhan01&show_icons=true&locale=en" alt="abboskhan01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abboskhan01&" alt="abboskhan01" /></p>
