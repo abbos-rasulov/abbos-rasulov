@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbos Rasulov</h1>
 <h3 align="center">I am an experienced data analyst with a huge interest in projects that require both creative and analytical thinking. And also I am a python backend developer who is proficient in both Django framework and Django REST framework. My passion lies in learning about the latest technologies and up-to-date informations about IT.I have 1+ years of experience in programming. I have made Backend, AI and ML projects during my experience. Now Iʼm Silicon Valley Sertificated data scientist. I also have experience on Backend web programming with python.</h3>
+![image](https://user-images.githubusercontent.com/98404469/204449060-c49d3d42-82ca-4f33-bb9f-d2e13f6a6cee.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abboskhan01&label=Profile%20views&color=0e75b6&style=flat" alt="abboskhan01" /> </p>
 
